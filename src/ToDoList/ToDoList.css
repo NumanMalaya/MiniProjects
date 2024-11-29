@@ -1,0 +1,27 @@
+.form{
+  margin-bottom: 20px;
+  text-align: center;
+}
+.list input{
+  outline: none;
+}
+.task{
+  display: flex;
+  justify-content: space-between;
+}
+.task input{
+  width: 150px;
+}
+.task .buttons{
+  display: flex;
+  justify-content: end; 
+  height: fit-content;
+  min-width: 150px;
+}
+.task .buttons button{
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 3px 5px;
+  margin-left: 5px;
+}

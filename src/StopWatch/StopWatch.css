@@ -1,0 +1,19 @@
+.timer h1{
+    border: 1px solid red;
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+.controls{
+    display: flex;
+    justify-content: center;
+}
+.controls button{
+    border: none;
+    color: white;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: 50px 10px;
+}
